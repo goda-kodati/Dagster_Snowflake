@@ -1,0 +1,12 @@
+2023-03-01 09:46:31,460 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 09:46:31,463 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 09:46:32,336 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 09:46:32,337 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 09:47:34,376 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 09:47:34,376 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 09:48:36,922 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 09:48:36,922 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 09:49:47,656 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 09:49:47,656 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 09:50:50,274 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 09:50:50,275 - my_test - INFO - --In JOB, after executing OP query--

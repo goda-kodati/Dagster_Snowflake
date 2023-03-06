@@ -1,0 +1,808 @@
+2023-03-01 11:05:25,768 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:05:25,769 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:05:25,986 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:05:25,986 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:07:10,052 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:07:10,052 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:07:10,488 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:07:10,489 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:08:11,504 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:08:11,504 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:09:13,274 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:09:13,274 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:10:14,859 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:10:14,859 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:11:16,748 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:11:16,748 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:12:18,442 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:12:18,442 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:13:19,929 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:13:19,929 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:14:21,669 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:14:21,669 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:15:23,390 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:15:23,390 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:16:25,137 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:16:25,137 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:17:26,786 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:17:26,787 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:18:28,448 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:18:28,448 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:19:30,045 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:19:30,045 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:20:37,858 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:20:37,858 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:20:38,171 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:20:38,172 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:21:00,771 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:21:00,772 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:21:01,105 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:21:01,105 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:26:15,677 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:26:15,677 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:26:15,947 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:26:15,947 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:27:16,904 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:27:16,905 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:32:54,581 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:32:54,581 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:32:54,890 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:32:54,890 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:33:56,274 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:33:56,274 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:34:58,115 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:34:58,115 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:35:34,898 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:35:34,898 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:35:34,921 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:35:34,921 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:36:00,319 - my_test - ERROR - can't set attribute
+2023-03-01 11:36:36,716 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:36:36,716 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:37:28,222 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:37:28,222 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:37:28,606 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:37:28,606 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:38:00,073 - my_test - INFO - --In SCHEDULE, about to execute the JOB--
+2023-03-01 11:38:00,179 - my_test - INFO - --In OP, about to execute QUERY--
+2023-03-01 11:38:04,206 - my_test - INFO - --QUERY execution completed in op--
+2023-03-01 11:38:04,225 - my_test - INFO - --In SCHEDULE, after executing job--
+2023-03-01 11:38:04,305 - my_test - ERROR - unhashable type: 'dict'
+2023-03-01 11:39:14,438 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:39:14,438 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:39:14,689 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:39:14,690 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:40:00,063 - my_test - INFO - --In SCHEDULE, about to execute the JOB--
+2023-03-01 11:40:00,151 - my_test - INFO - --In OP, about to execute QUERY--
+2023-03-01 11:40:03,147 - my_test - INFO - --QUERY execution completed in op--
+2023-03-01 11:40:03,164 - my_test - INFO - --In SCHEDULE, after executing job--
+2023-03-01 11:40:03,272 - my_test - ERROR - unhashable type: 'dict'
+2023-03-01 11:40:15,926 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:40:15,926 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:40:38,984 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:40:38,984 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:40:39,216 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:40:39,216 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:41:40,306 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:41:40,306 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:42:00,160 - my_test - INFO - --In SCHEDULE, about to execute the JOB--
+2023-03-01 11:42:00,321 - my_test - INFO - --In OP, about to execute QUERY--
+2023-03-01 11:42:05,212 - my_test - INFO - --QUERY execution completed in op--
+2023-03-01 11:42:05,262 - my_test - INFO - --In SCHEDULE, after executing job--
+2023-03-01 11:42:06,957 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:42:06,957 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:42:08,030 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:42:08,031 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:42:08,130 - my_test - INFO - --In OP, about to execute QUERY--
+2023-03-01 11:42:10,353 - my_test - INFO - --QUERY execution completed in op--
+2023-03-01 11:42:41,985 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:42:41,986 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:43:43,688 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:43:43,688 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:44:00,077 - my_test - INFO - --In SCHEDULE, about to execute the JOB--
+2023-03-01 11:44:00,177 - my_test - INFO - --In OP, about to execute QUERY--
+2023-03-01 11:44:03,160 - my_test - INFO - --QUERY execution completed in op--
+2023-03-01 11:44:03,177 - my_test - INFO - --In SCHEDULE, after executing job--
+2023-03-01 11:44:04,679 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:44:04,680 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:44:05,874 - my_test - INFO - --In JOB, about to call op--
+2023-03-01 11:44:05,874 - my_test - INFO - --In JOB, after executing OP query--
+2023-03-01 11:44:05,969 - my_test - INFO - --In OP, about to execute QUERY--
+2023-03-01 11:44:08,613 - my_test - INFO - --QUERY execution completed in op--
+2023-03-01 12:18:38,859 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:18:38,859 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:18:38,860 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:18:38,860 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:18:39,039 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:18:39,039 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:18:39,040 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:18:39,040 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:19:40,356 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:19:40,356 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:19:40,356 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:19:40,357 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:20:00,065 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:20:00,172 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:20:13,227 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:20:13,309 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:20:14,929 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:20:15,023 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:20:15,023 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:20:15,024 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:20:15,024 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:20:15,485 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:20:16,231 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:20:16,231 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:20:16,232 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:20:16,232 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:20:16,329 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:20:21,108 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:20:21,130 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:20:22,846 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:20:22,846 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:20:22,847 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:20:22,847 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:20:23,959 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:20:23,959 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:20:23,961 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:20:23,961 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:20:24,055 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:20:24,353 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:20:29,506 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:20:41,994 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:20:41,994 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:20:41,995 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:20:41,995 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:21:43,856 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:21:43,856 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:21:43,857 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:21:43,858 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:22:00,070 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:22:00,164 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:22:07,423 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:22:07,439 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:22:08,677 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:22:08,896 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:22:08,897 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:22:08,898 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:22:08,898 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:22:08,909 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:22:10,132 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:22:10,132 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:22:10,133 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:22:10,133 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:22:10,236 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:22:14,084 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:22:14,104 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:22:15,948 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:22:15,948 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:22:15,950 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:22:15,950 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:22:17,219 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:22:17,219 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:22:17,221 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:22:17,221 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:22:17,323 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:22:18,064 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:22:22,002 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:22:45,407 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:22:45,407 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:22:45,408 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:22:45,408 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:23:47,173 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:23:47,173 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:23:47,175 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:23:47,175 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:24:00,145 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:24:00,339 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:24:08,887 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:24:08,913 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:24:10,362 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:24:10,479 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:24:10,479 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:24:10,480 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:24:10,480 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:24:10,701 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:24:11,564 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:24:11,564 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:24:11,566 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:24:11,566 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:24:11,657 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:24:15,786 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:24:15,813 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:24:17,501 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:24:17,501 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:24:17,502 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:24:17,502 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:24:18,624 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:24:18,624 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:24:18,625 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:24:18,625 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:24:18,722 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:24:18,804 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:24:23,980 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:24:48,899 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:24:48,899 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:24:48,900 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:24:48,900 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:25:50,595 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:25:50,595 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:25:50,596 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:25:50,596 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:26:00,074 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:26:00,159 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:26:08,362 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:26:08,375 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:26:09,477 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:26:09,618 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:26:09,687 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:26:09,688 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:26:09,689 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:26:09,689 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:26:10,896 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:26:10,896 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:26:10,897 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:26:10,897 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:26:11,040 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:26:14,120 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:26:14,132 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:26:15,809 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:26:15,810 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:26:15,811 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:26:15,811 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:26:17,245 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:26:17,246 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:26:17,247 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:26:17,247 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:26:17,343 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:26:18,349 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:26:22,286 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:26:52,342 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:26:52,342 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:26:52,343 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:26:52,343 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:27:54,193 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:27:54,193 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:27:54,194 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:27:54,194 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:28:00,054 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:28:00,139 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:28:07,610 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:28:07,618 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:28:08,849 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:28:08,983 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:28:09,064 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:28:09,064 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:28:09,065 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:28:09,066 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:28:10,281 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:28:10,281 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:28:10,282 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:28:10,282 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:28:10,378 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:28:13,832 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:28:13,842 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:28:15,179 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:28:15,179 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:28:15,181 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:28:15,181 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:28:16,420 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:28:16,420 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:28:16,422 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:28:16,422 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:28:16,533 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:28:17,562 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:28:21,853 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:28:55,864 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:28:55,864 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:28:55,865 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:28:55,865 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:29:57,473 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:29:57,473 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:29:57,474 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:29:57,474 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:29:57,475 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:29:57,475 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:30:00,089 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:30:00,249 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:30:08,467 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:30:08,489 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:30:10,006 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:30:10,156 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:30:10,156 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:30:10,158 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:30:10,158 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:30:10,159 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:30:10,159 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:30:10,405 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:30:11,277 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:30:11,277 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:30:11,279 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:30:11,279 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:30:11,280 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:30:11,280 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:30:11,372 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:30:15,655 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:30:15,684 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:30:17,551 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:30:17,551 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:30:17,553 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:30:17,553 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:30:17,554 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:30:17,554 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:30:18,833 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:30:18,833 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:30:18,835 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:30:18,835 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:30:18,836 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:30:18,836 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:30:18,938 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:30:21,070 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:30:24,010 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:30:59,116 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:30:59,116 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:30:59,117 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:30:59,117 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:30:59,118 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:30:59,118 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:31:22,642 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:31:22,642 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:31:22,644 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:31:22,644 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:31:22,644 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:31:22,645 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:32:00,136 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:32:00,386 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:32:00,871 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:32:00,872 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:32:00,873 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:32:00,873 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:32:00,874 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:32:00,874 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:32:10,839 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:32:10,867 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:32:12,473 - my_test - INFO - --In SCHEDULE3, about to execute the JOB3--
+2023-03-01 12:32:12,635 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:32:12,636 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:32:12,637 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:32:12,637 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:32:12,638 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:32:12,638 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:32:12,696 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:32:13,773 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:32:13,773 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:32:13,775 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:32:13,775 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:32:13,776 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:32:13,776 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:32:13,872 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:32:18,033 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:32:18,066 - my_test - INFO - --In SCHEDULE3, after executing job3--
+2023-03-01 12:32:19,673 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:32:19,816 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:32:19,817 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:32:19,818 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:32:19,818 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:32:19,819 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:32:19,819 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:32:19,883 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:32:20,944 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:32:20,944 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:32:20,945 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:32:20,945 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:32:20,946 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:32:20,946 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:32:21,038 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:32:22,200 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:32:25,659 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:32:25,693 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:32:26,613 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:32:27,478 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:32:27,478 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:32:27,479 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:32:27,480 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:32:27,481 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:32:27,481 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:32:28,619 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:32:28,619 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:32:28,620 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:32:28,620 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:32:28,621 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:32:28,621 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:32:28,716 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:32:33,384 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:33:02,581 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:33:02,581 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:33:02,583 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:33:02,583 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:33:02,583 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:33:02,584 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:34:00,159 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:34:00,356 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:34:04,269 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:34:04,269 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:34:04,271 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:34:04,271 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:34:04,272 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:34:04,272 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:34:13,825 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:34:13,857 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:34:15,459 - my_test - INFO - --In SCHEDULE3, about to execute the JOB3--
+2023-03-01 12:34:15,569 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:34:15,569 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:34:15,571 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:34:15,571 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:34:15,572 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:34:15,572 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:34:15,706 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:34:16,751 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:34:16,751 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:34:16,752 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:34:16,752 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:34:16,753 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:34:16,753 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:34:16,847 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:34:22,445 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:34:22,464 - my_test - INFO - --In SCHEDULE3, after executing job3--
+2023-03-01 12:34:24,130 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:34:24,303 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:34:24,303 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:34:24,304 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:34:24,304 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:34:24,305 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:34:24,305 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:34:24,342 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:34:25,571 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:34:25,571 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:34:25,573 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:34:25,573 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:34:25,574 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:34:25,574 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:34:25,674 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:34:26,244 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:34:29,396 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:34:29,426 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:34:30,621 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:34:31,124 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:34:31,124 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:34:31,125 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:34:31,125 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:34:31,126 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:34:31,126 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:34:32,277 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:34:32,278 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:34:32,279 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:34:32,279 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:34:32,280 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:34:32,280 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:34:32,376 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:34:37,563 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:35:06,087 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:35:06,087 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:35:06,089 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:35:06,089 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:35:06,090 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:35:06,090 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:36:00,156 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:36:00,393 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:36:07,760 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:36:07,760 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:36:07,761 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:36:07,761 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:36:07,762 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:36:07,762 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:36:09,098 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:36:09,129 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:36:10,642 - my_test - INFO - --In SCHEDULE3, about to execute the JOB3--
+2023-03-01 12:36:10,738 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:36:10,816 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:36:10,816 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:36:10,817 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:36:10,818 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:36:10,818 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:36:10,818 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:36:11,984 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:36:11,984 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:36:11,985 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:36:11,985 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:36:11,986 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:36:11,986 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:36:12,094 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:36:15,887 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:36:15,916 - my_test - INFO - --In SCHEDULE3, after executing job3--
+2023-03-01 12:36:17,477 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:36:17,681 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:36:17,681 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:36:17,682 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:36:17,683 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:36:17,684 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:36:17,684 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:36:17,699 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:36:18,890 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:36:18,890 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:36:18,891 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:36:18,892 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:36:18,892 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:36:18,892 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:36:18,989 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:36:19,765 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:36:22,436 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:36:22,458 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:36:24,015 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:36:24,229 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:36:24,230 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:36:24,231 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:36:24,231 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:36:24,232 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:36:24,232 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:36:25,487 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:36:25,487 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:36:25,488 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:36:25,488 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:36:25,489 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:36:25,489 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:36:25,579 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:36:30,656 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:37:09,426 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:37:09,426 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:37:09,427 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:37:09,427 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:37:09,428 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:37:09,428 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:38:00,156 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:38:00,350 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:38:08,479 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:38:08,512 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:38:09,987 - my_test - INFO - --In SCHEDULE3, about to execute the JOB3--
+2023-03-01 12:38:10,130 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:38:10,130 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:38:10,132 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:38:10,132 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:38:10,133 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:38:10,133 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:38:10,355 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:38:11,267 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:38:11,267 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:38:11,268 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:38:11,269 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:38:11,269 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:38:11,270 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:38:11,355 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:38:11,355 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:38:11,356 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:38:11,356 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:38:11,357 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:38:11,357 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:38:11,471 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:38:15,475 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:38:15,498 - my_test - INFO - --In SCHEDULE3, after executing job3--
+2023-03-01 12:38:17,044 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:38:17,163 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:38:17,211 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:38:17,211 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:38:17,212 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:38:17,212 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:38:17,213 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:38:17,213 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:38:18,363 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:38:18,364 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:38:18,365 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:38:18,365 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:38:18,366 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:38:18,366 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:38:18,472 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:38:18,816 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:38:22,660 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:38:22,687 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:38:24,069 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:38:24,514 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:38:24,514 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:38:24,515 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:38:24,515 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:38:24,516 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:38:24,516 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:38:25,754 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:38:25,754 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:38:25,755 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:38:25,755 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:38:25,756 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:38:25,756 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:38:25,850 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:38:30,846 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:39:13,030 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:39:13,030 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:39:13,031 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:39:13,032 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:39:13,032 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:39:13,032 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:40:00,066 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:40:00,155 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:40:07,809 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:40:07,820 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:40:09,020 - my_test - INFO - --In SCHEDULE3, about to execute the JOB3--
+2023-03-01 12:40:09,159 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:40:09,219 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:40:09,220 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:40:09,221 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:40:09,221 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:40:09,222 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:40:09,222 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:40:10,362 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:40:10,362 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:40:10,363 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:40:10,363 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:40:10,364 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:40:10,364 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:40:10,474 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:40:13,698 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:40:13,710 - my_test - INFO - --In SCHEDULE3, after executing job3--
+2023-03-01 12:40:14,588 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:40:14,589 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:40:14,590 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:40:14,590 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:40:14,591 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:40:14,591 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:40:14,936 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:40:15,068 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:40:15,122 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:40:15,123 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:40:15,124 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:40:15,124 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:40:15,125 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:40:15,125 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:40:16,233 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:40:16,234 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:40:16,235 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:40:16,235 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:40:16,236 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:40:16,236 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:40:16,330 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:40:17,862 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:40:19,574 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:40:19,591 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:40:20,926 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:40:20,926 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:40:20,927 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:40:20,927 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:40:20,929 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:40:20,929 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:40:22,068 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:40:22,069 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:40:22,070 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:40:22,070 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:40:22,071 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:40:22,071 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:40:22,092 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:40:22,179 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:40:27,328 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:41:16,868 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:41:16,868 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:41:16,870 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:41:16,870 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:41:16,871 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:41:16,871 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:42:00,130 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:42:00,302 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:42:08,246 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:42:08,272 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:42:09,974 - my_test - INFO - --In SCHEDULE3, about to execute the JOB3--
+2023-03-01 12:42:10,162 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:42:10,162 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:42:10,164 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:42:10,164 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:42:10,164 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:42:10,165 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:42:10,308 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:42:11,413 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:42:11,413 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:42:11,415 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:42:11,415 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:42:11,416 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:42:11,416 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:42:11,523 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:42:15,445 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:42:15,471 - my_test - INFO - --In SCHEDULE3, after executing job3--
+2023-03-01 12:42:16,965 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:42:17,109 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:42:17,109 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:42:17,110 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:42:17,110 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:42:17,111 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:42:17,111 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:42:17,198 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:42:18,321 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:42:18,321 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:42:18,322 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:42:18,322 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:42:18,323 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:42:18,323 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:42:18,437 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:42:18,523 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:42:18,523 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:42:18,524 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:42:18,525 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:42:18,525 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:42:18,526 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:42:19,021 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:42:22,308 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:42:22,337 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:42:23,621 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:42:23,960 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:42:23,960 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:42:23,962 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:42:23,962 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:42:23,963 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:42:23,963 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:42:25,140 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:42:25,140 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:42:25,142 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:42:25,142 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:42:25,142 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:42:25,143 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:42:25,237 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:42:30,362 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:43:20,178 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:43:20,178 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:43:20,180 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:43:20,180 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:43:20,181 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:43:20,181 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:44:00,129 - my_test - INFO - --In SCHEDULE1, about to execute the JOB1--
+2023-03-01 12:44:00,333 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:44:08,132 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:44:08,163 - my_test - INFO - --In SCHEDULE1, after executing job1--
+2023-03-01 12:44:09,880 - my_test - INFO - --In SCHEDULE3, about to execute the JOB3--
+2023-03-01 12:44:10,014 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:44:10,084 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:44:10,084 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:44:10,087 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:44:10,087 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:44:10,088 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:44:10,088 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:44:11,239 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:44:11,240 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:44:11,241 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:44:11,241 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:44:11,242 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:44:11,242 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:44:11,335 - my_test - INFO - --In OP1, about to execute QUERY1--
+2023-03-01 12:44:15,137 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:44:15,151 - my_test - INFO - --In SCHEDULE3, after executing job3--
+2023-03-01 12:44:16,346 - my_test - INFO - --In SCHEDULE2, about to execute the JOB2--
+2023-03-01 12:44:16,482 - my_test - INFO - --In OP2, about to execute QUERY2--
+2023-03-01 12:44:16,536 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:44:16,537 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:44:16,538 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:44:16,538 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:44:16,539 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:44:16,539 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:44:17,656 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:44:17,656 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:44:17,657 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:44:17,658 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:44:17,658 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:44:17,658 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:44:17,750 - my_test - INFO - --In OP3, about to execute QUERY3--
+2023-03-01 12:44:18,672 - my_test - INFO - --QUERY1 execution completed in op1--
+2023-03-01 12:44:21,815 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:44:21,815 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:44:21,817 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:44:21,817 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:44:21,817 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:44:21,818 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:44:21,878 - my_test - INFO - --QUERY2 execution completed in op2--
+2023-03-01 12:44:21,887 - my_test - INFO - --In SCHEDULE2, after executing job2--
+2023-03-01 12:44:22,998 - my_test - INFO - --QUERY3 execution completed in op3--
+2023-03-01 12:44:23,205 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:44:23,206 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:44:23,207 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:44:23,207 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:44:23,208 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:44:23,209 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:44:24,388 - my_test - INFO - --In JOB1, about to call op1--
+2023-03-01 12:44:24,388 - my_test - INFO - --In JOB1, after executing OP1 query--
+2023-03-01 12:44:24,390 - my_test - INFO - --In JOB2, about to call op2--
+2023-03-01 12:44:24,390 - my_test - INFO - --In JOB2, after executing OP2 query--
+2023-03-01 12:44:24,390 - my_test - INFO - --In JOB3, about to call op3--
+2023-03-01 12:44:24,391 - my_test - INFO - --In JOB3, after executing OP3 query--
+2023-03-01 12:44:24,487 - my_test - INFO - --In OP2, about to execute QUERY2--

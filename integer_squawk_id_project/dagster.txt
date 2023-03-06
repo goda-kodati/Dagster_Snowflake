@@ -1,0 +1,64 @@
+2023-02-28 13:35:01,338 - my_test - INFO - ------Executing the JOB------
+2023-02-28 13:35:01,551 - my_test - INFO - ------Executing the JOB------
+2023-02-28 13:36:00,062 - my_test - INFO - ------SCHEDULE started------
+2023-02-28 13:36:00,153 - my_test - INFO - ------Executing the QUERY------
+2023-02-28 13:36:02,881 - my_test - INFO - ------Executing the JOB------
+2023-02-28 13:36:03,433 - my_test - INFO - ------Successfully executed the QUERY------
+2023-02-28 13:36:03,447 - my_test - INFO - ------Done with the job execution------
+2023-02-28 13:36:04,767 - my_test - INFO - ------Executing the JOB------
+2023-02-28 13:36:05,905 - my_test - INFO - ------Executing the JOB------
+2023-02-28 13:36:05,997 - my_test - INFO - ------Executing the QUERY------
+2023-02-28 13:36:08,978 - my_test - INFO - ------Successfully executed the QUERY------
+2023-02-28 13:37:04,483 - my_test - INFO - ------Executing the JOB------
+2023-02-28 13:38:00,055 - my_test - INFO - ------SCHEDULE started------
+2023-02-28 13:38:00,148 - my_test - INFO - ------Executing the QUERY------
+2023-02-28 13:38:03,435 - my_test - INFO - ------Successfully executed the QUERY------
+2023-02-28 13:38:03,447 - my_test - INFO - ------Done with the job execution------
+2023-02-28 13:38:04,940 - my_test - INFO - ------Executing the JOB------
+2023-02-28 13:38:06,134 - my_test - INFO - ------Executing the JOB------
+2023-02-28 13:38:06,227 - my_test - INFO - ------Executing the QUERY------
+2023-02-28 13:38:06,315 - my_test - INFO - ------Executing the JOB------
+2023-02-28 13:38:09,240 - my_test - INFO - ------Successfully executed the QUERY------
+2023-02-28 13:45:46,717 - my_test - INFO - ------In JOB------
+2023-02-28 13:45:46,924 - my_test - INFO - ------In JOB------
+2023-02-28 13:46:00,065 - my_test - INFO - ------In SCHEDULE------
+2023-02-28 13:46:00,158 - my_test - INFO - ------In OP------
+2023-02-28 13:46:04,620 - my_test - INFO - ------In JOB------
+2023-02-28 13:46:05,789 - my_test - INFO - ------In JOB------
+2023-02-28 13:46:05,884 - my_test - INFO - ------In OP------
+2023-02-28 13:46:48,335 - my_test - INFO - ------In JOB------
+2023-02-28 13:47:50,078 - my_test - INFO - ------In JOB------
+2023-02-28 13:48:00,059 - my_test - INFO - ------In SCHEDULE------
+2023-02-28 13:48:00,150 - my_test - INFO - ------In OP------
+2023-02-28 13:48:04,731 - my_test - INFO - ------In JOB------
+2023-02-28 13:48:05,828 - my_test - INFO - ------In JOB------
+2023-02-28 13:48:05,927 - my_test - INFO - ------In OP------
+2023-02-28 13:57:55,296 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 13:57:55,502 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 13:58:56,922 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 13:59:58,606 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:00:00,052 - my_test - INFO - ------In SCHEDULE, about to execute the JOB------
+2023-02-28 14:00:00,149 - my_test - INFO - ------In OP, about to execute QUERY------
+2023-02-28 14:00:04,876 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:00:05,963 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:00:06,047 - my_test - INFO - ------In OP, about to execute QUERY------
+2023-02-28 14:01:00,196 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:02:00,135 - my_test - INFO - ------In SCHEDULE, about to execute the JOB------
+2023-02-28 14:02:00,295 - my_test - INFO - ------In OP, about to execute QUERY------
+2023-02-28 14:02:01,897 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:02:05,185 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:02:06,257 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:02:06,343 - my_test - INFO - ------In OP, about to execute QUERY------
+2023-02-28 14:03:03,608 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:04:00,101 - my_test - INFO - ------In SCHEDULE, about to execute the JOB------
+2023-02-28 14:04:00,288 - my_test - INFO - ------In OP, about to execute QUERY------
+2023-02-28 14:04:05,412 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:04:05,516 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:04:06,626 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:04:06,710 - my_test - INFO - ------In OP, about to execute QUERY------
+2023-02-28 14:05:07,083 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:39:03,758 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:39:04,082 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:47:01,678 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:47:01,859 - my_test - INFO - ------In JOB, about to call op------
+2023-02-28 14:48:03,061 - my_test - INFO - ------In JOB, about to call op------

@@ -1,0 +1,32 @@
+2023-02-28 15:06:11,831 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:06:11,831 - my_test - INFO - --In JOB, after executing OP query--
+2023-02-28 15:06:12,041 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:06:12,041 - my_test - INFO - --In JOB, after executing OP query--
+2023-02-28 15:07:13,290 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:07:13,290 - my_test - INFO - --In JOB, after executing OP query--
+2023-02-28 15:08:00,111 - my_test - INFO - --In SCHEDULE, about to execute the JOB--
+2023-02-28 15:08:00,317 - my_test - INFO - --In OP, about to execute QUERY--
+2023-02-28 15:08:04,219 - my_test - INFO - --QUERY execution completed in op--
+2023-02-28 15:08:04,239 - my_test - INFO - --In SCHEDULE, after executing job--
+2023-02-28 15:08:05,960 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:08:05,960 - my_test - INFO - --In JOB, after executing OP query--
+2023-02-28 15:08:07,274 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:08:07,274 - my_test - INFO - --In JOB, after executing OP query--
+2023-02-28 15:08:07,407 - my_test - INFO - --In OP, about to execute QUERY--
+2023-02-28 15:08:10,778 - my_test - INFO - --QUERY execution completed in op--
+2023-02-28 15:08:14,990 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:08:14,991 - my_test - INFO - --In JOB, after executing OP query--
+2023-02-28 15:09:16,690 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:09:16,690 - my_test - INFO - --In JOB, after executing OP query--
+2023-02-28 15:10:00,120 - my_test - INFO - --In SCHEDULE, about to execute the JOB--
+2023-02-28 15:10:00,348 - my_test - INFO - --In OP, about to execute QUERY--
+2023-02-28 15:10:04,886 - my_test - INFO - --QUERY execution completed in op--
+2023-02-28 15:10:04,902 - my_test - INFO - --In SCHEDULE, after executing job--
+2023-02-28 15:10:06,547 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:10:06,547 - my_test - INFO - --In JOB, after executing OP query--
+2023-02-28 15:10:07,700 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:10:07,700 - my_test - INFO - --In JOB, after executing OP query--
+2023-02-28 15:10:07,798 - my_test - INFO - --In OP, about to execute QUERY--
+2023-02-28 15:10:11,123 - my_test - INFO - --QUERY execution completed in op--
+2023-02-28 15:10:18,395 - my_test - INFO - --In JOB, about to call op--
+2023-02-28 15:10:18,395 - my_test - INFO - --In JOB, after executing OP query--

@@ -1,0 +1,2 @@
+2023-02-28 12:06:00,265 - my_test - ERROR - local variable 'cycle' referenced before assignment
+2023-02-28 12:10:00,753 - my_test - ERROR - local variable 'cycle' referenced before assignment

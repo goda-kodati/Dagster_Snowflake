@@ -1,0 +1,82 @@
+INFO:root:ACC :::  
+INFO:snowflake.connector.connection:Snowflake Connector for Python Version: 3.0.0, Python Version: 3.8.0, Platform: Windows-10-10.0.19041-SP0
+INFO:snowflake.connector.connection:This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+INFO:snowflake.connector.connection:Setting use_openssl_only mode to False
+INFO:snowflake.connector.cursor:query: [SELECT * FROM EDW.COMPLIANCE_HISTORY LIMIT 5]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 5
+INFO:snowflake.connector.cursor:query: [COMMIT]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 1
+INFO:snowflake.connector.connection:closed
+INFO:snowflake.connector.connection:No async queries seem to be running, deleting session
+INFO:root:ACC :::  
+INFO:dagster:Shutting down Dagster code server for file my_test.py on port 61415 in process 23356
+INFO:root:ACC :::  
+INFO:snowflake.connector.connection:Snowflake Connector for Python Version: 3.0.0, Python Version: 3.8.0, Platform: Windows-10-10.0.19041-SP0
+INFO:snowflake.connector.connection:This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+INFO:snowflake.connector.connection:Setting use_openssl_only mode to False
+INFO:snowflake.connector.cursor:query: [SELECT * FROM EDW.COMPLIANCE_HISTORY LIMIT 5]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 5
+INFO:snowflake.connector.cursor:query: [COMMIT]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 1
+INFO:snowflake.connector.connection:closed
+INFO:snowflake.connector.connection:No async queries seem to be running, deleting session
+INFO:root:ACC :::  
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:root:ACC :::  
+INFO:snowflake.connector.connection:Snowflake Connector for Python Version: 3.0.0, Python Version: 3.8.0, Platform: Windows-10-10.0.19041-SP0
+INFO:snowflake.connector.connection:This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+INFO:snowflake.connector.connection:Setting use_openssl_only mode to False
+INFO:snowflake.connector.cursor:query: [SELECT * FROM EDW.COMPLIANCE_HISTORY LIMIT 5]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 5
+INFO:snowflake.connector.cursor:query: [COMMIT]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 1
+INFO:snowflake.connector.connection:closed
+INFO:snowflake.connector.connection:No async queries seem to be running, deleting session
+INFO:root:ACC :::  
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:dagster:Shutting down Dagster code server for file my_test.py on port 61918 in process 16596
+INFO:root:ACC :::  
+INFO:snowflake.connector.connection:Snowflake Connector for Python Version: 3.0.0, Python Version: 3.8.0, Platform: Windows-10-10.0.19041-SP0
+INFO:snowflake.connector.connection:This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+INFO:snowflake.connector.connection:Setting use_openssl_only mode to False
+INFO:snowflake.connector.cursor:query: [SELECT * FROM EDW.COMPLIANCE_HISTORY LIMIT 5]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 5
+INFO:snowflake.connector.cursor:query: [COMMIT]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 1
+INFO:snowflake.connector.connection:closed
+INFO:snowflake.connector.connection:No async queries seem to be running, deleting session
+INFO:root:ACC :::  
+INFO:dagster:Shutting down Dagster code server for file my_test.py on port 62207 in process 30020
+INFO:root:ACC :::  
+INFO:snowflake.connector.connection:Snowflake Connector for Python Version: 3.0.0, Python Version: 3.8.0, Platform: Windows-10-10.0.19041-SP0
+INFO:snowflake.connector.connection:This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+INFO:snowflake.connector.connection:Setting use_openssl_only mode to False
+INFO:snowflake.connector.cursor:query: [SELECT * FROM EDW.COMPLIANCE_HISTORY LIMIT 5]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 5
+INFO:snowflake.connector.cursor:query: [COMMIT]
+INFO:snowflake.connector.cursor:query execution done
+INFO:snowflake.connector.cursor:Number of results in first chunk: 1
+INFO:snowflake.connector.connection:closed
+INFO:snowflake.connector.connection:No async queries seem to be running, deleting session
+INFO:root:ACC :::  
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:dagster:Shutting down Dagster code server for file my_test.py on port 62642 in process 12216
+INFO:dagster:Shutting down Dagster code server for file my_test.py on port 62357 in process 7196
