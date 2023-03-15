@@ -28,21 +28,22 @@ def current_status_backfill_job():
     logObj.info("job_one called")
     current_status_backfill_op()
 
-start_date=pendulum.datetime(year=2023, month=4, day=14, hour=1)
+start_date=pendulum.datetime(year=2023, month=3, day=14, hour=1)
 
 def start_date_func(context: ScheduleEvaluationContext):
     # return False
-    logObj.warn('from logObj Scheduled_execution time_zone = : {0}, dtpe:{1}'.format(context.scheduled_execution_time.timezone_name, type(context.scheduled_execution_time)))
-    logObj.warn('from logObj Scheduled_execution time = : {0}, dtpe:{1}'.format(context.scheduled_execution_time, type(context.scheduled_execution_time)))
-    logObj.warn('from logObj start_date time_zone = : {0}, dtpe:{1}'.format(start_date.timezone_name,type(start_date)))
-    logObj.warn('from logObj start_date = : {0}, dtpe:{1}'.format(start_date, type(start_date)))
+    # logObj.warn('from logObj Scheduled_execution time_zone = : {0}, dtpe:{1}'.format(context.scheduled_execution_time.timezone_name, type(context.scheduled_execution_time)))
+    # logObj.warn('from logObj Scheduled_execution time = : {0}, dtpe:{1}'.format(context.scheduled_execution_time, type(context.scheduled_execution_time)))
+    # logObj.warn('from logObj start_date time_zone = : {0}, dtpe:{1}'.format(start_date.timezone_name,type(start_date)))
+    # logObj.warn('from logObj start_date = : {0}, dtpe:{1}'.format(start_date, type(start_date)))
+    # logObj.warn('start_date = : {0}'.format(start_date.date()))
+    # logObj.warn('Scheduled_execution time = : {0}'.format(context.scheduled_execution_time.date()))
+    # logObj.warn('start_date timestamp = : {0}'.format(start_date.time()))
+    # logObj.warn('Scheduled_execution time timestamp= : {0}'.format(context.scheduled_execution_time.time()))
 
-    if context.scheduled_execution_time.date() >= start_date.date():
-        if context.scheduled_execution_time.timestamp() >= start_date.timestamp():
-         logObj.info(True)
-         return True
+    if context.scheduled_execution_time >= start_date:
+        return True
     else:
-        logObj.info(False)
         return False
     
 @schedule(cron_schedule="*/3 * * * *",
