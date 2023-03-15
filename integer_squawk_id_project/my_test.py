@@ -4,51 +4,56 @@ from dagster import Definitions, asset, op, job, materialize, schedule,ScheduleE
 import logging,datetime
 from logging.handlers import TimedRotatingFileHandler
 
+import pendulum
+
 
 log_formatter = logging.Formatter('%(asctime)s - %(module)s - %(levelname)s - %(message)s')
 file_handler = TimedRotatingFileHandler('test_log1.txt', backupCount=1000, delay=0)
 file_handler.setFormatter(log_formatter)
-# file_handler.setLevel(logging.INFO)
-
-# logObj.addHandler(file_handler)
-# logObj.setLevel(logging.INFO)
 
 root_logger = logging.getLogger()
 root_logger.addHandler(file_handler)
-root_logger.setLevel(logging.DEBUG)
+root_logger.setLevel(logging.WARN)
 
 logObj = logging.getLogger(__name__)
 
-
-
 @op(required_resource_keys={'snowflake'})
-def query_one(context):
+def current_status_backfill_op(context):
     logObj.info("query_one called")
-    context.resources.snowflake.execute_query("CALL EDW.RUN_JOB_BY_NAME_SQID('p_ch_sq_id_num', 'P_SQ_ID_NUM_BACKFILL')")
+    context.resources.snowflake.execute_query("CALL EDW.RUN_JOB_BY_NAME_SQID('p_cs_sq_id_num', 'P_CS_SQ_ID_NUM_BACKFILL')")
     
 
 @job(resource_defs={'snowflake': snowflake_resource})
-def job_one():
+def current_status_backfill_job():
     logObj.info("job_one called")
-    query_one()
+    current_status_backfill_op()
 
-start_date=datetime.datetime(2023, 3, 7)
+start_date=pendulum.datetime(year=2023, month=4, day=14, hour=1)
 
 def start_date_func(context: ScheduleEvaluationContext):
-    if str(context.scheduled_execution_time) > str(start_date):
-        return True
+    # return False
+    logObj.warn('from logObj Scheduled_execution time_zone = : {0}, dtpe:{1}'.format(context.scheduled_execution_time.timezone_name, type(context.scheduled_execution_time)))
+    logObj.warn('from logObj Scheduled_execution time = : {0}, dtpe:{1}'.format(context.scheduled_execution_time, type(context.scheduled_execution_time)))
+    logObj.warn('from logObj start_date time_zone = : {0}, dtpe:{1}'.format(start_date.timezone_name,type(start_date)))
+    logObj.warn('from logObj start_date = : {0}, dtpe:{1}'.format(start_date, type(start_date)))
+
+    if context.scheduled_execution_time.date() >= start_date.date():
+        if context.scheduled_execution_time.timestamp() >= start_date.timestamp():
+         logObj.info(True)
+         return True
     else:
+        logObj.info(False)
         return False
     
-@schedule(cron_schedule="*/2 * * * *",
-           job_name="job_one",
+@schedule(cron_schedule="*/3 * * * *",
+           job_name="current_status_backfill_job",
            default_status=DefaultScheduleStatus.RUNNING,
            should_execute=start_date_func
            )
-def schedule_one(context: ScheduleEvaluationContext):
+def current_status_backfill_schedule(context: ScheduleEvaluationContext):
  try:
     logObj.info("schedule_one called")
-    job_one.execute_in_process(
+    current_status_backfill_job.execute_in_process(
         run_config=my_config
     ) 
     return RunRequest(
@@ -59,63 +64,44 @@ def schedule_one(context: ScheduleEvaluationContext):
         context.log.error(e)
         logObj.error(e)
 
-# @op(required_resource_keys={'snowflake'})
-# def query_two(context):
-#     logObj.info("--In OP2, about to execute QUERY2--")
-#     context.resources.snowflake.execute_query('SELECT SQUAWK_ID FROM EDW.SQUAWK LIMIT 5')
-#     logObj.info("--QUERY2 execution completed in op2--")
+@op(required_resource_keys={'snowflake'})
+def compliance_history_backfill_op(context):
+    logObj.info("query_one called")
+    context.resources.snowflake.execute_query("CALL EDW.RUN_JOB_BY_NAME_SQID('p_ch_sq_id_num', 'P_CH_SQ_ID_NUM_BACKFILL')")
+    
 
-# @job(resource_defs={'snowflake': snowflake_resource})
-# def job_two():
-#     logObj.info("--In JOB2, about to call op2--")
-#     query_two()
-#     logObj.info("--In JOB2, after executing OP2 query--")
+@job(resource_defs={'snowflake': snowflake_resource})
+def compliance_history_backfill_job():
+    logObj.info("job_one called")
+    compliance_history_backfill_op()
 
+# start_date=datetime.datetime(year=2023, month=3, day=13, hour=2, minute=45)
 
-# @schedule(cron_schedule="*/2 * * * *", job_name="job_two",default_status=DefaultScheduleStatus.RUNNING)
-# def schedule_two(context: ScheduleEvaluationContext):
-#  try:
-#     logObj.info("--In SCHEDULE2, about to execute the JOB2--")
-#     job_two.execute_in_process(
-#         run_config=my_config
-#     ) 
-#     logObj.info("--In SCHEDULE2, after executing job2--") 
-#     return RunRequest(
-#         run_key=None,
-#         run_config=my_config
-#     )
-#  except Exception as e:
-#         context.log.error(e)
-#         logObj.error(e)
-
-# @op(required_resource_keys={'snowflake'})
-# def query_three(context):
-#     logObj.info("--In OP3, about to execute QUERY3--")
-#     context.resources.snowflake.execute_query('SELECT ID FROM EDW.SQUAWK LIMIT 5')
-#     logObj.info("--QUERY3 execution completed in op3--")
-
-# @job(resource_defs={'snowflake': snowflake_resource})
-# def job_three():
-#     logObj.info("--In JOB3, about to call op3--")
-#     query_three()
-#     logObj.info("--In JOB3, after executing OP3 query--")
-
-
-# @schedule(cron_schedule="*/2 * * * *", job_name="job_three",default_status=DefaultScheduleStatus.RUNNING)
-# def schedule_three(context: ScheduleEvaluationContext):
-#  try:
-#     logObj.info("--In SCHEDULE3, about to execute the JOB3--")
-#     job_three.execute_in_process(
-#         run_config=my_config
-#     ) 
-#     logObj.info("--In SCHEDULE3, after executing job3--") 
-#     return RunRequest(
-#         run_key=None,
-#         run_config=my_config
-#     )
-#  except Exception as e:
-#         context.log.error(e)
-#         logObj.error(e)
+# def start_date_func(context: ScheduleEvaluationContext):
+#     logObj.info("context.scheduled_execution_time="+context.scheduled_execution_time)
+#     if str(context.scheduled_execution_time) > str(start_date):
+#         return True
+#     else:
+#         return False
+    
+@schedule(cron_schedule="0 */1 * * *",
+           job_name="compliance_history_backfill_job",
+           default_status=DefaultScheduleStatus.RUNNING,
+           should_execute=start_date_func
+           )
+def compliance_history_backfill_schedule(context: ScheduleEvaluationContext):
+ try:
+    logObj.info("schedule_one called")
+    compliance_history_backfill_job.execute_in_process(
+        run_config=my_config
+    ) 
+    return RunRequest(
+        run_key=None,
+        run_config=my_config
+    )
+ except Exception as e:
+        context.log.error(e)
+        logObj.error(e)
 
 snowflake_cred= {
                         "account": "kpa19933.us-east-1",  # required
@@ -135,8 +121,8 @@ my_config={
         }
 
 defs = Definitions(
-    jobs=[job_one],
-    schedules=[schedule_one],
+    jobs=[current_status_backfill_job,compliance_history_backfill_job],
+    schedules=[current_status_backfill_schedule,compliance_history_backfill_schedule],
     resources={
         "snowflake": snowflake_resource.configured(
             snowflake_cred
